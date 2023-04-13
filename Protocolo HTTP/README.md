@@ -2,7 +2,7 @@
 
 ## Conteúdo
 - [O que é o protocolo HTTP?](#o-que-é-o-protocolo-http)
-- [Como o protocolo HTTP funciona?](#como-o-protocolo-http-funciona)
+- [Como funciona?](#como-funciona)
 - [Métodos HTTP](#métodos-http)
 - [URLs](#urls)
 - [Cabeçalhos HTTP](#cabeçalhos-http)
@@ -12,14 +12,15 @@
 
 ## O que é o protocolo HTTP?
 
-## Como o protocolo HTTP funciona?
+O Protocolo de Transferência de Hipertexto (HTTP) é um protocolo de comunicação utilizado na Internet para transferência de informações entre computadores. Ele é responsável pela comunicação entre clientes e servidores da web e é amplamente utilizado para o acesso a recursos na World Wide Web.
 
+## Como funciona?
 
-## Métodos HTTP
-...
+O HTTP é um protocolo de camada de aplicação que é executado sobre o protocolo de transporte TCP/IP. Ele usa o método de solicitação-resposta, em que o cliente envia uma solicitação para o servidor e o servidor responde com uma resposta.
 
 ## URLs
-...
+
+O HTTP é baseado em URLs (Uniform Resource Locators) que identificam recursos específicos na web. Os URLs consistem em um esquema, um nome de host, um caminho e um identificador de recurso.
 
 ## Cabeçalhos HTTP
 ...
@@ -27,9 +28,6 @@
 ## HTTPS
 
 O HTTPS (HTTP Secure) é usado para garantir a segurança da comunicação HTTP. Ele usa criptografia SSL/TLS para proteger a comunicação entre clientes e servidores da web.
-
-## REST
-
 
 ## Instruções
 
